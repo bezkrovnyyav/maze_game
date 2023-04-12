@@ -11,13 +11,6 @@ The game description is in the documents.docx file
 
 2. Enter yo the foulder `maze_game`
 
-3. Initialize environment in the console:
-```
-python -m venv env
-env\Script\activate
-pip install -r requirements.txt
-```
+3. In the console run script: `python play_game.py`
 
-4. In the console run script: `python play_game.py`
-
-5. Use the commands in the game for playing
+4. Use the commands in the game for playing
