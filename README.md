@@ -13,4 +13,4 @@ The game description is in the documents.docx file
 
 3. In the console run script: `python play_game.py`
 
-4. Use the commands in the game for playing
+4. Use commands in the game for playing
